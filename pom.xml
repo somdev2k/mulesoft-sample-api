@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>b5846fed-b2ab-4010-bb3a-da8542803caa</groupId>
+		<groupId>d3568c45-240a-431f-baa1-42ea631fcb88</groupId>
 		<artifactId>cicd-solutions-parent-pom</artifactId>
 		<version>1.0.0</version>
 		<relativePath>../parent-pom/pom.xml</relativePath>
 	</parent>
-	<groupId>b5846fed-b2ab-4010-bb3a-da8542803caa</groupId>
+	<groupId>d3568c45-240a-431f-baa1-42ea631fcb88</groupId>
 	<artifactId>mulesoft-sample-api</artifactId>
 	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
